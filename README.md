@@ -21,10 +21,11 @@ Machine learning assisted chemo-dynamical analysis of Milky Way stellar populati
 
 Current progress:
 
-- Gaia DR3 sample query and validation
-- LAMOST catalogue exploration and cross-match
-- Chemo-kinematic feature construction
-- Future: clustering and stellar population analysis
+- [x] Gaia DR3 sample query and validation
+- [x] LAMOST catalogue exploration and cross-match
+- [ ] Chemo-kinematic feature construction
+- [ ] Exploratory visualization
+- [ ] Clustering and stellar population analysis
 
 Repository: [gaia-lamost-galactic-archaeology](https://github.com/lior-linho/gaia-lamost-galactic-archaeology)
 
