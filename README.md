@@ -13,11 +13,22 @@ I am currently building independent research-oriented projects using real scient
 - Astronomical Survey Data
 - Research Software Development
 
-## Featured Project
+## Featured Research Line
 
-### Gaia–LAMOST Galactic Archaeology Project
+### Data-driven Galactic Archaeology with Gaia DR3 and LAMOST
 
-Research-oriented project exploring Milky Way stellar populations using **Gaia DR3** astrometry and **LAMOST** spectroscopy.
+An umbrella research-oriented project exploring Milky Way stellar populations using **Gaia DR3** astrometry and **LAMOST** spectroscopy.
+
+The project is organized into three connected sub-projects:
+
+1. **Gaia–LAMOST Cross-matching and Chemo-kinematic Feature Construction**  
+   Building a clean Gaia–LAMOST cross-matched sample and constructing analysis-ready features.
+
+2. **Unsupervised Stellar Population Discovery**  
+   Using visualization, dimensionality reduction, and clustering methods to explore possible stellar population structures.
+
+3. **Interpretable Machine Learning for Galactic Substructure Candidates**  
+   Developing interpretable workflows for identifying and analyzing candidate Galactic substructures.
 
 Current progress:
 
@@ -25,7 +36,8 @@ Current progress:
 - [x] LAMOST catalogue exploration and cross-match
 - [ ] Chemo-kinematic feature construction
 - [ ] Exploratory visualization
-- [ ] Clustering and stellar population analysis
+- [ ] Dimensionality reduction and clustering
+- [ ] Candidate selection workflow
 - [ ] Research-style project report
 
 Repository: [gaia-lamost-galactic-archaeology](https://github.com/lior-linho/gaia-lamost-galactic-archaeology)
