@@ -61,7 +61,7 @@ React · TypeScript · Three.js · Simulation Systems
 
 ## Links
 
+- Website: https://lior-linho.github.io/
 - GitHub: https://github.com/lior-linho
-- Website: Coming soon
+- LinkedIn: https://www.linkedin.com/in/lior-l-05b4322a7
 - ORCID: Coming soon
-- LinkedIn: Coming soon
