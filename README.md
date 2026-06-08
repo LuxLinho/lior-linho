@@ -2,7 +2,7 @@
 
 Aspiring undergraduate student interested in **physics**, **scientific computing**, and **data-driven research**.
 
-I am currently building independent research projects using real scientific datasets. My current featured project uses **Gaia DR3** and **LAMOST** data to explore chemo-dynamical structures of Milky Way stellar populations.
+I am currently building independent research-oriented projects using real scientific datasets. My current featured project uses **Gaia DR3** and **LAMOST** data to explore chemo-dynamical structures of Milky Way stellar populations.
 
 ## Current Interests
 
@@ -17,7 +17,7 @@ I am currently building independent research projects using real scientific data
 
 ### Gaia–LAMOST Galactic Archaeology Project
 
-Machine learning assisted chemo-dynamical analysis of Milky Way stellar populations using Gaia DR3 and LAMOST.
+Research-oriented project exploring Milky Way stellar populations using **Gaia DR3** astrometry and **LAMOST** spectroscopy.
 
 Current progress:
 
@@ -26,8 +26,19 @@ Current progress:
 - [ ] Chemo-kinematic feature construction
 - [ ] Exploratory visualization
 - [ ] Clustering and stellar population analysis
+- [ ] Research-style project report
 
 Repository: [gaia-lamost-galactic-archaeology](https://github.com/lior-linho/gaia-lamost-galactic-archaeology)
+
+## Selected Projects
+
+### OpenMed
+
+Medical simulation software project with interactive 3D visualization and research-oriented workflow design.
+
+### Gaia–LAMOST Galactic Archaeology Project
+
+Independent scientific computing project using large-scale astronomical survey data.
 
 ## Technical Stack
 
@@ -37,8 +48,20 @@ Currently learning and using:
 
 Astropy · ADQL · Scientific Visualization · Research Workflows
 
+Also experienced with:
+
+React · TypeScript · Three.js · Simulation Systems
+
 ## Current Goals
 
 - Build a research-oriented undergraduate portfolio
 - Develop reproducible scientific computing projects
 - Explore research opportunities in physics, astronomy, and data-driven science
+- Prepare for undergraduate studies in physics and computer science
+
+## Links
+
+- GitHub: https://github.com/lior-linho
+- Website: Coming soon
+- ORCID: Coming soon
+- LinkedIn: Coming soon
