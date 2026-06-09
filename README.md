@@ -64,13 +64,6 @@ Also experienced with:
 
 React · TypeScript · Three.js · Simulation Systems
 
-## Current Goals
-
-- Build a research-oriented undergraduate portfolio
-- Develop reproducible scientific computing projects
-- Explore research opportunities in physics, astronomy, and data-driven science
-- Prepare for undergraduate studies in physics and computer science
-
 ## Links
 
 - Website: https://lior-linho.github.io/
