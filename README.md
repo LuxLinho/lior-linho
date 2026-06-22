@@ -2,7 +2,7 @@
 
 # Lior Linho
 
-**Physics × Scientific Computing × Data-driven Astronomy**
+**Physics · Scientific Computing · Data-driven Astronomy**
 
 Building research-oriented software with real scientific datasets.
 
@@ -14,72 +14,34 @@ Building research-oriented software with real scientific datasets.
 
 ---
 
-```mermaid
-flowchart LR
-    A[Gaia DR3] --> C[Sample]
-    B[LAMOST] --> C
-    C --> D[Features]
-    D --> E[PCA / Clustering]
-    E --> F[Interpretation]
-```
+## Research & Projects
+
+| Repository                                                                                             | Description                                                                                                 |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| [**gaia-lamost-galactic-archaeology**](https://github.com/lior-linho/gaia-lamost-galactic-archaeology) | Data-driven Galactic archaeology using **Gaia DR3** astrometry and **LAMOST** spectroscopy.                 |
+| [**learning-atlas**](https://github.com/lior-linho/learning-atlas)                                     | Public learning archive for computer science, mathematics, physics, astrophysics, chemistry, and languages. |
+| **OpenMed**                                                                                            | Medical simulation software with interactive 3D visualization and research-oriented workflow design.        |
 
 ---
 
-## Featured Research Line
-
-**Data-driven Galactic Archaeology with Gaia DR3 and LAMOST**
+## Toolkit
 
 ```text
-Gaia DR3 + LAMOST
-        ↓
-cross-matched stellar sample
-        ↓
-chemo-kinematic feature space
-        ↓
-PCA · clustering · diagnostics
-        ↓
-candidate Galactic substructures
+Research Computing
+Python · NumPy · Pandas · Matplotlib · Scikit-learn · Jupyter
+
+Scientific Workflow
+Astropy · ADQL · astronomical survey data · research documentation
+
+Software Engineering
+React · TypeScript · Three.js · Git
 ```
-
-[Repository →](https://github.com/lior-linho/gaia-lamost-galactic-archaeology)
-
----
-
-## Current Focus
-
-```yaml
-fields:
-  - physics
-  - astrophysics
-  - scientific computing
-
-methods:
-  - astronomical survey analysis
-  - machine learning for scientific data
-  - research software development
-
-tools:
-  - Python
-  - Jupyter
-  - Git
-```
-
----
-
-## Projects
-
-| Project                              | Direction                                                     |
-| ------------------------------------ | ------------------------------------------------------------- |
-| **Gaia–LAMOST Galactic Archaeology** | Large-scale astronomical survey data analysis                 |
-| **OpenMed**                          | Medical simulation software with interactive 3D visualization |
-| **Learning Atlas**                   | Public learning archive for CS, math, physics, and astronomy  |
 
 ---
 
 <div align="center">
 
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter`
-`Astropy` · `ADQL` · `React` · `TypeScript` · `Three.js`
+`physics` · `astrophysics` · `scientific computing` · `machine learning for scientific data` · `research software`
 
 <br/>
 
