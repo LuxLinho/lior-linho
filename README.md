@@ -1,72 +1,88 @@
+<div align="center">
+
 # Lior Linho
 
-Aspiring undergraduate student interested in **physics**, **scientific computing**, and **data-driven research**.
+**Physics × Scientific Computing × Data-driven Astronomy**
 
-I am currently building independent research-oriented projects using real scientific datasets. My current featured project uses **Gaia DR3** and **LAMOST** data to explore chemo-dynamical structures of Milky Way stellar populations.
+Building research-oriented software with real scientific datasets.
 
-## Current Interests
+[Website](https://lior-linho.github.io/) ·
+[GitHub](https://github.com/lior-linho) ·
+[LinkedIn](https://www.linkedin.com/in/lior-l-05b4322a7)
 
-- Physics and Astrophysics
-- Scientific Computing
-- Data Analysis
-- Machine Learning for Scientific Data
-- Astronomical Survey Data
-- Research Software Development
+</div>
+
+---
+
+```mermaid
+flowchart LR
+    A[Gaia DR3] --> C[Sample]
+    B[LAMOST] --> C
+    C --> D[Features]
+    D --> E[PCA / Clustering]
+    E --> F[Interpretation]
+```
+
+---
 
 ## Featured Research Line
 
-### Data-driven Galactic Archaeology with Gaia DR3 and LAMOST
+**Data-driven Galactic Archaeology with Gaia DR3 and LAMOST**
 
-An umbrella research-oriented project exploring Milky Way stellar populations using **Gaia DR3** astrometry and **LAMOST** spectroscopy.
+```text
+Gaia DR3 + LAMOST
+        ↓
+cross-matched stellar sample
+        ↓
+chemo-kinematic feature space
+        ↓
+PCA · clustering · diagnostics
+        ↓
+candidate Galactic substructures
+```
 
-The project is organized into three connected sub-projects:
+[Repository →](https://github.com/lior-linho/gaia-lamost-galactic-archaeology)
 
-1. **Gaia–LAMOST Cross-matching and Chemo-kinematic Feature Construction**  
-   Building a clean Gaia–LAMOST cross-matched sample and constructing analysis-ready features.
+---
 
-2. **Unsupervised Stellar Population Discovery**  
-   Using visualization, dimensionality reduction, and clustering methods to explore possible stellar population structures.
+## Current Focus
 
-3. **Interpretable Machine Learning for Galactic Substructure Candidates**  
-   Developing interpretable workflows for identifying and analyzing candidate Galactic substructures.
+```yaml
+fields:
+  - physics
+  - astrophysics
+  - scientific computing
 
-Current progress:
+methods:
+  - astronomical survey analysis
+  - machine learning for scientific data
+  - research software development
 
-- [x] Gaia DR3 sample query and validation
-- [x] LAMOST catalogue exploration and cross-match
-- [ ] Chemo-kinematic feature construction
-- [ ] Exploratory visualization
-- [ ] Dimensionality reduction and clustering
-- [ ] Candidate selection workflow
-- [ ] Research-style project report
+tools:
+  - Python
+  - Jupyter
+  - Git
+```
 
-Repository: [gaia-lamost-galactic-archaeology](https://github.com/lior-linho/gaia-lamost-galactic-archaeology)
+---
 
-## Selected Projects
+## Projects
 
-### OpenMed
+| Project                              | Direction                                                     |
+| ------------------------------------ | ------------------------------------------------------------- |
+| **Gaia–LAMOST Galactic Archaeology** | Large-scale astronomical survey data analysis                 |
+| **OpenMed**                          | Medical simulation software with interactive 3D visualization |
+| **Learning Atlas**                   | Public learning archive for CS, math, physics, and astronomy  |
 
-Medical simulation software project with interactive 3D visualization and research-oriented workflow design.
+---
 
-### Gaia–LAMOST Galactic Archaeology Project
+<div align="center">
 
-Independent scientific computing project using large-scale astronomical survey data.
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter`
+`Astropy` · `ADQL` · `React` · `TypeScript` · `Three.js`
 
-## Technical Stack
+<br/>
 
-Python · NumPy · Pandas · Matplotlib · Scikit-learn · Jupyter · Git
+> Toward the intersection of physics, computation, and data-driven research.
 
-Currently learning and using:
-
-Astropy · ADQL · Scientific Visualization · Research Workflows
-
-Also experienced with:
-
-React · TypeScript · Three.js · Simulation Systems
-
-## Links
-
-- Website: https://lior-linho.github.io/
-- GitHub: https://github.com/lior-linho
-- LinkedIn: https://www.linkedin.com/in/lior-l-05b4322a7
-- ORCID: Coming soon
+</div>
