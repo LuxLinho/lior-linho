@@ -6,18 +6,21 @@
 
 <br/>
 
-<sub><code>PROFILE</code></sub>
+<sub>✦ PROFILE CARD ✦</sub>
+
+<br/>
+<br/>
 
 # LIOR LINHO
 
-### Research-minded, tool-building, evidence-first.
+<br/>
 
-I work across **physics**, **astrophysics**, and **computing** —  
+I work across **physics**, **astrophysics**, and **scientific computing** —  
 building tools that turn messy questions into maps, models, and evidence.
 
 <br/>
 
-**Physics · Scientific Computing · Data-driven Astronomy**
+### Physics · Astrophysics & Astronomy · Scientific Computing
 
 <br/>
 
@@ -28,9 +31,7 @@ building tools that turn messy questions into maps, models, and evidence.
 <br/>
 <br/>
 
-<sub>
-<code>BLACK INK</code> · <code>PAPER</code> · <code>SCIENTIFIC GREEN</code>
-</sub>
+<sub>FIELD ATLAS / PERSON INDEX</sub>
 
 <br/>
 
