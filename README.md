@@ -6,13 +6,18 @@
 
 <br/>
 
-<sub><code>PERSONAL FIELD ATLAS</code></sub>
+<sub><code>PROFILE</code></sub>
 
-# Lior Linho
+# LIOR LINHO
+
+### Research-minded, tool-building, evidence-first.
+
+I work across **physics**, **astrophysics**, and **computing** —  
+building tools that turn messy questions into maps, models, and evidence.
+
+<br/>
 
 **Physics · Scientific Computing · Data-driven Astronomy**
-
-Building research-oriented software with real scientific datasets.
 
 <br/>
 
@@ -23,7 +28,9 @@ Building research-oriented software with real scientific datasets.
 <br/>
 <br/>
 
+<sub>
 <code>BLACK INK</code> · <code>PAPER</code> · <code>SCIENTIFIC GREEN</code>
+</sub>
 
 <br/>
 
@@ -34,4 +41,3 @@ Building research-oriented software with real scientific datasets.
 </div>
 
 <br/>
-
