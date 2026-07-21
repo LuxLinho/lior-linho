@@ -1,7 +1,7 @@
 <div align="center">
 
 <pre>
-LIOR LINHO
+LUX LINHO
 </pre>
 
 <sub>FIELD ATLAS / PERSON INDEX</sub>
